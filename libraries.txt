@@ -1,0 +1,8 @@
+add the spring libraries from springdemoone project to all other projects
+to the build path of the project.
+
+in eclipse
+right click on project
+properties
+go to java build path
+add external jars
